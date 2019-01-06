@@ -1,0 +1,19 @@
+.lastesthot-items-wrapper {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 80px;
+}
+
+
+.lastesthot-items-wrapper .lastesthot-weui-flex {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.lastesthot-weui-flex img{
+    width: 110px;
+    height: 130px;
+    margin-top: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "movie",
+  "description": "0.0.1",
+  "main": "movie website",
+  "authors": [
+    "chengyu"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "movie"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.1.3"
+  }
+}
